@@ -1,0 +1,9 @@
+   0 nano skript.sh
+   1 nano script.sh
+   2 cd /tmp/
+   3 nano script.sh
+   4 chmod +x script.sh
+   5 ./script.sh
+   6 nano script.sh
+   7 ./script.sh
+   8 history > /tmp/script_history.txt
